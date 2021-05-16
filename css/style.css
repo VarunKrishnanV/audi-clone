@@ -1,0 +1,12 @@
+@font-face {
+    font-family: audi;
+    src: url(/fonts/309-font.ttf);
+}
+
+body{
+    font-family: audi, sans-serif;
+}
+
+.nav1__item{
+
+}
